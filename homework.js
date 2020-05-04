@@ -209,7 +209,7 @@ const declareMurderer = function() {
 }
 
 const verdict = declareMurderer();
-console.log(verdict);
+console.log(verdict); // The murderer is Professor Plum. if statement doesn't change it. needs a variable with a function.
 // ```
 
 // ### Extensions
